@@ -14,7 +14,7 @@ This talk was prepared for:
 The slides can be viewed on:
 http://lackofcolours.github.io/talk_qa-from-fed-letter
 
-To view slide notes, open the slide and press `s`.
+To view slide notes, open the slide and press the `s` key.
 
 ## License
 
