@@ -6,7 +6,7 @@ As QA's one of the crucial part is to collaborate with the devs, to have a great
 
 I want to share what I've learnt from QA's/Testers and how it has helped me grow over the years. I also would like to encourage the good work of those who are already doing these things.
 
-This talk was prepared for:
+This 40mins talk was prepared for:
 - [Wellington Testers Meetup](https://www.meetup.com/Wellington-Testers/events/260660347/) - 9th May 2019
 
 ## Viewing
