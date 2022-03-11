@@ -10,7 +10,7 @@ This 40mins talk was prepared for:
 ## Viewing
 
 The slides can be viewed on:
-http://lackofcolours.github.io/talk_qa-from-fed-letter
+http://praesongprasit.github.io/talk_qa-from-fed-letter
 
 To view slide notes, open the slide and press the `s` key.
 
